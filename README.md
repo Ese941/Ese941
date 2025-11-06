@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ese941
-- 👀 I am a Frontend Web developer
+- 👀 I am a Frontend Web developer and a Technical Writer
 - 🌱 I'm currently pursuing a Computer Science Bsc Degree.
 - 💞️ I’m open to work and collaborations on projects
 - 📫 How to reach me umukoroogheneese@gmail.com
