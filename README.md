@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ese941
-- 👀 I am a Frontend Web developer and a Technical Writer
-- 🌱 I'm currently pursuing a Computer Science Bsc Degree.
-- 💞️ I’m open to work and collaborations on projects
-- 📫 How to reach me umukoroogheneese@gmail.com
+- 👋 Hi, I’m Agilo.
+- 👀 I am a Smart Contract Auditor.
+- 💞️ I’m open to work and collaborations on projects.
 
 <!---
 Ese941/Ese941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
