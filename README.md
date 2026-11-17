@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agilo.
+- 👋 Hi, I’m Eseoghene.
 - 👀 I am a Smart Contract Auditor.
 - 💞️ I’m open to work and collaborations on projects.
 
